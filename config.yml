@@ -1,0 +1,144 @@
+lobbyworld: BreeVillageofMen
+survivalworld: CarteSurvie
+forbiddenworld: GameOfTaupesS7
+coordonnees:
+  coordonneeslobby:
+    X:  1000
+    Y:  30
+    Z: -500
+  coordonneescages:
+    Principale:
+      X:  968
+      Y:  115
+      Z: -530
+    Rose:
+      name: Humains
+      X:  968
+      Y:  115
+      Z: -536
+    Jaune:
+      name: Nains
+      X: 974
+      Y: 115
+      Z: -527       
+    Violette:
+      name: Uruk-hai
+      X: 968
+      Y: 115
+      Z: -524
+    Cyan:
+      name: Elfes
+      X: 962
+      Y: 115
+      Z: -533
+    Verte:
+      name: Hobbits
+      X: 974
+      Y: 115
+      Z: -533
+    Grise:
+      name: Gobelins
+      X: 962
+      Y: 115
+      Z: -527
+  coordonneesjeux:
+    CrazyTown:
+      name: "&4Crazy Town"
+      TNTPanic: 
+        name: 'TNT Panic !'
+        material: 'TNT'
+        X: -9026
+        Y: 55
+        Z: -8974
+      Bomberman:
+        name: 'Bomberman'
+        material: 'COAL'
+        X: -11969
+        Y: 15
+        Z: -11916
+      Murder:
+        name: 'Murder !'
+        material: 'IRON_SWORD'
+        X: -6775
+        Y: 10
+        Z: -11494
+      Jumping_Puzzle:
+        name: 'Jumping Puzzle'
+        material: 'RABBIT_FOOT'
+        X: -666
+        Y: 7
+        Z: 390
+      Puissance4:
+        name: 'Puissance 4'
+        material: 'DAYLIGHT_DETECTOR'
+        X: -6674
+        Y: 6
+        Z: -10677
+      Esquisse3D:
+        name: 'Esquisse 3D'
+        material: 'PAINTING'
+        X: -8000
+        Y: 6
+        Z: -8000
+    Medievalley:
+      name: '&6Medievalley'
+      Ancien_tutoriel: 
+        name: 'Ancien tutoriel'
+        material: 'COMPASS'
+        X: -8480
+        Y: 140
+        Z: -10610
+      Course_Hippique: 
+        name: 'Course Hippique'
+        material: 'SADDLE'
+        X: -6504
+        Y: 5
+        Z: -9389
+      Arene:
+        name: 'Arene de combat'
+        material: 'DIAMOND_SWORD'
+        X: -8051
+        Y: 9
+        Z: -10000
+    Cyberzone:
+      name: '&1Cyberzone'
+      Tron:
+        name: 'Tron'
+        material: 'SEA_LANTERN'
+        X: -9006
+        Y: 80
+        Z: -10585
+      Skywars:
+        name: 'Skywars'
+        material: 'ARROW'
+        X: -500
+        Y: 20
+        Z: -100
+      De_a_coudre:
+        name: 'De a coudre'
+        material: 'LEATHER_BOOTS'
+        X: -15000
+        Y: 60
+        Z: -15000
+      Pikto3D:
+        name: Pikto 3D
+        material: CYAN_GLAZED_TERRACOTTA
+        X: -6000
+        Y: 20
+        Z: -6000
+    Bree:
+      name: '&2Bree'
+      Jeu_de_Piste:
+        name: 'Jeu de Piste'
+        material: 'BANNER'
+        X: -7721
+        Y: 50
+        Z: -10619
+      Survival:
+        name: 'Carte survie'
+        world: CarteSurvie
+        material: 'DIAMOND_PICKAXE'
+        X: 75
+        Y: 83
+        Z: 177
+        yaw: 270.0

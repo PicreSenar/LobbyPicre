@@ -1,0 +1,11 @@
+name: LobbyPicre
+version: 1.0
+author: PicreSenar
+main: fr.picresenar.lobbypicre.MainLobby
+api-version: 1.15
+commands: 
+  adminmeetup:
+   description: Permet de recuperer l'outil admin du GoT Meetup
+   permission: adminmeetup.use 
+  getbooktp:
+   description: Permet de se teleporter aux mini jeux
